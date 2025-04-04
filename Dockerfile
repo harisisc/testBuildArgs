@@ -15,4 +15,4 @@ RUN echo "OS: $BUILDOS, ARCH: $BUILDARCH"
 
 RUN echo "OS: $TARGETOS, ARCH: $TARGETARCH"
 
-RUN echo "TEST"
+RUN echo "TES"
